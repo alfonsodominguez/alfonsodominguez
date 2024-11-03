@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi 👋, I'm Alfonso Dominguez</h1>
+<h1 align="center">Hi 👋, I'm Alfonso Dominguez 👨🏼‍💻</h1>
 <h3 align="center">A passionate software developer from Spain</h3>
 
 - 🔭 I’m currently working as **Senior Software Developer at E-learning company**
@@ -23,7 +23,7 @@
   ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
   ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
   ![PhpStorm](https://img.shields.io/badge/phpstorm-000?logo=phpstorm&style=for-the-badge)
-  ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white) &nbsp; &nbsp;
+  ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
   ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 
